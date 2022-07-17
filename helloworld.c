@@ -2,10 +2,6 @@
 
 int main()
 {
-  printf("    /|\n");
-  printf("   / |\n");
-  printf("  /  |\n");
-  printf(" /   |\n");
-  printf("/____|\n");
+  printf("Hello World\n");
   return 0;
 }
